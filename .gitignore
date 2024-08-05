@@ -1,2 +1,2 @@
 # ignore .cph files
-.prob
+.cph/*.prob
